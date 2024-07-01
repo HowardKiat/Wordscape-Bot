@@ -1,0 +1,2 @@
+# Wordscape-Bot
+WordScape Bot
